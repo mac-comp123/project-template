@@ -1,2 +1,2 @@
-# Homework XX
-See the instructions of the homework [here]().
+# Project
+Write information about your project here.
