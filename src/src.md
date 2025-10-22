@@ -1,1 +1,1 @@
-All source files, ie, code files, shoud go into this folder.
+All source files such as Python scripts and unit test files shoud be stored in this folder.
