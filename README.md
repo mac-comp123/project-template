@@ -1,2 +1,3 @@
-# Project
-Write information about your project here.
+# Project Title
+
+Check the project requirements for what should go into this file.
